@@ -22,21 +22,15 @@ That is my problem. I'm sure you can relate especically if you're a
 developer. I know you are. Yes, I'm looking at you.
 
 # The solution
-I need pratices. I mean a lot of pratices. Here is what I'm going to do.
-I'm going to build the most simple web application. The purpose of
-building this app is that it's not about the product itself but it's
-about the process of creating and launching the app. Along the way, I'll
-be bloging about the technical, non-technical of what I learn from start
-to finish.
+I need pratices. I mean a lot of pratices. So I'm going to build a really simple web application. The purpose of
+building this app is more about the process of getting it done and launching it within one week. I'll blog about the technical, non-technical of what I learn from start to finish.
 
 Hopefully, my journey will inspire you one way or another.
 
 > It's about a journey not a destination.
 
 # The product
-I need a minimal viable product, a really simple one.
-
-I'm going to build a "To Do Application". Nothing fancy, just a to do list where an user can:
+With a minimal viable product in mind, I'm going to build a "To Do Application". Nothing fancy, just a to do list where an user can:
 
 - Create a todo item
 - Edit a todo item
@@ -45,8 +39,4 @@ I'm going to build a "To Do Application". Nothing fancy, just a to do list where
 - Mark a complete todo item
 
 That is. Let's do it.
-
-# What I have lean?
-To be continue...
-
 
