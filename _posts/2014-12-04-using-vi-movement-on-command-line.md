@@ -22,4 +22,7 @@ or you can set your mac keyRepeat to wicked fast.
 
 <pre>defaults write NSGlobalDomain KeyRepeat -int 0</pre>
 
+For Mac Sierra
+<pre>defaults write NSGlobalDomain KeyRepeat -int 1</pre>
+
 Thanks! <a href="http://www.kevinolson.me/wicked-fast-keyboard-cursor-movement/" target="_blank">Kevin Olson</a>
